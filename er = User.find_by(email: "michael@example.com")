@@ -1,0 +1,8 @@
+=> 
+[32m#<User:0x000076427b9661d8[0m
+ id: [34m[1m1[0m,
+ name: [31m[1m"[0m[31mMichael Hartl[0m[31m[1m"[0m,
+ email: [31m[1m"[0m[31mmichael@example.com[0m[31m[1m"[0m,
+ created_at: Sat, 14 Dec 2024 06:13:54.493081000 UTC +00:00,
+ updated_at: Sat, 14 Dec 2024 06:13:54.493081000 UTC +00:00,
+ password_digest: [31m[1m"[0m[31m[FILTERED][0m[31m[1m"[0m[32m>[0m
